@@ -1,0 +1,8 @@
+
+function godess(input) {
+
+}
+
+godess([
+  
+]);
